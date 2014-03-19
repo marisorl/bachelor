@@ -6,4 +6,5 @@ echo 'simen sug';
 echo 'maria sint!';
 echo 'Martin sug';
 echo 'lolollooolollololol*';
+echo 'du suuuuug martin!!!';
 ?>
